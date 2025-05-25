@@ -1,7 +1,7 @@
-# goit-js-hw-07
+# goit-js-hw-08
 
 # git add --all
 
-# git commit -m goit-js-hw-07
+# git commit -m goit-js-hw-08
 
 # git push
